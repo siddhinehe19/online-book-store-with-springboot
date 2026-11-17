@@ -14,7 +14,7 @@
     <groupId>com.dhanshri</groupId>
     <artifactId>bookstore</artifactId>
     <version>1.0.0</version>
-    <name>dhanshris-bookstore</name>
+    <name>siddhis-bookstore</name>
 
     <properties>
         <java.version>17</java.version>

@@ -1,4 +1,4 @@
-# Dhanshri's Bookstore
+# Siddhi's Bookstore
 
 A responsive full-stack online bookstore built with React, Spring Boot, and MySQL.
 
